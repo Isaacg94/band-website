@@ -4,10 +4,12 @@ body {
 .sidebar {
   border: 2px solid red;
   padding: 7px;
-  width: 30%;
+  margin: 10px;
+  width: 40%;
   float: right;
   background-image: linear-gradient(#ff9ee9, #8cd0ff);
 }
 img {
   float: left;
+  padding: 7px;
 }
