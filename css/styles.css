@@ -1,12 +1,21 @@
 body {
   background-color: #a2acaf;
 }
+.main {
+  width: 40%;
+  float: right;
+}
+.images {
+  float: left;
+  width: 60%;
+  height: 100%;
+}
 .sidebar {
   border: 2px solid red;
   padding: 7px;
   margin: 10px;
-  width: 40%;
-  float: right;
+  width: 20%;
+  float: left;
   background-image: linear-gradient(#ff9ee9, #8cd0ff);
 }
 img {
